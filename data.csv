@@ -1,0 +1,5 @@
+Id,Transaction,Month,Day,Credit_Type,Account
+0,+60.5,July,15,Credit,etm1995@hotmail.com
+1,-10.3,July,28,Debit,etm1995@hotmail.com
+2,-20.46,August,02,Debit,etm1995@hotmail.com
+3,+10,August,13,Credit,etm1995@hotmail.com
